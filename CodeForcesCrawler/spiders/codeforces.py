@@ -1,4 +1,7 @@
-# -*- coding: utf-8 -*-
+#   Arnab Sen Sharma
+#   Lecturer, Department of CSE
+#   Shahjalal University of Science and Technology
+
 import scrapy
 import re
 
